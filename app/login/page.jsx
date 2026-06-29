@@ -38,8 +38,9 @@ export default function LoginPage() {
   };
 
   return (
-    <div className="min-h-screen bg-black flex items-center justify-center">
-      <div className="bg-[#111] border border-[#222] rounded-2xl p-8 w-full max-w-sm">
+    <div className="min-h-screen bg-[#1a1a1a] flex items-center justify-center">
+  <div className="bg-[#0a0a0a] border-[6px] border-[#222] rounded-[36px] p-8 w-[320px] min-h-[580px] relative">
+    <div className="w-20 h-1.5 bg-[#333] rounded-full mx-auto mb-8"></div>
         
         <div className="flex items-center gap-3 mb-8">
           <div className="w-10 h-10 bg-[#f0eff5] rounded-lg flex items-center justify-center font-bold text-[#1a1c24] text-sm">
